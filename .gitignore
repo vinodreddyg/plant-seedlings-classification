@@ -1,0 +1,4 @@
+data/
+.kaggle-cli/
+.ipynb_checkpoints/
+fastai
